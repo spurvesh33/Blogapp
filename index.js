@@ -5,18 +5,21 @@ const port = process.env.PORT;
 
 const app = express();
 
+app.set("view engine", "ejs");
+
 app.use(express.static(__dirname + "/public"));
+app.use(express.static(__dirname + "/node_modules/bootstrap"));
 
 app.get("/", (req, res) => {
-  res.sendFile(__dirname + "/views/index.html");
+  res.render(__dirname + "/views/index");
 });
 
 app.get("/about", (req, res) => {
-  res.sendFile(__dirname + "/views/About.html");
+  res.render(__dirname + "/views/About");
 });
 
 app.get("/contact", (req, res) => {
-  res.sendFile(__dirname + "/views/Contact.html");
+  res.render(__dirname + "/views/Contact");
 });
 
 app.listen(port, () => {
