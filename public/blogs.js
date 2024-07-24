@@ -1,7 +1,7 @@
 exports.allBlogs = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Tech1.jpg",
     title: "Tech Trends of 2023",
     category: "Technology",
     content:
@@ -9,7 +9,7 @@ exports.allBlogs = [
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Health1.jpg",
     title: "Healthy Habits for a Better Lifestyle",
     category: "Health",
     content:
@@ -17,7 +17,7 @@ exports.allBlogs = [
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Travel2.jpg",
     title: "Exploring the Mountains of the Himalayas",
     category: "Travel",
     content:
@@ -25,7 +25,7 @@ exports.allBlogs = [
   },
   {
     id: 4,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/DIY1.jpg",
     title: "5 Easy DIY Home Decor Ideas",
     category: "DIY",
     content:
@@ -33,7 +33,7 @@ exports.allBlogs = [
   },
   {
     id: 5,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Fashion2.jpg",
     title: "Fashion Trends for Fall/Winter 2024",
     category: "Fashion",
     content:
@@ -41,7 +41,7 @@ exports.allBlogs = [
   },
   {
     id: 6,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Food3.jpg",
     title: "Delicious Summer BBQ Recipes",
     category: "Food",
     content:
@@ -49,7 +49,7 @@ exports.allBlogs = [
   },
   {
     id: 7,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Lifestyle1.jpg",
     title: "Tips for Stress-Free Living",
     category: "Lifestyle",
     content:
@@ -57,7 +57,7 @@ exports.allBlogs = [
   },
   {
     id: 8,
-    img: "/images/blogs/Tech1.jpg",
+    img: "/images/blogs/Tech2.jpg",
     title: "10 Must-Have Gadgets for Tech Enthusiasts",
     category: "Technology",
     content:
@@ -65,7 +65,7 @@ exports.allBlogs = [
   },
   {
     id: 9,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Travel3.jpg",
     title: "Solo Travel: Embracing Adventure Alone",
     category: "Travel",
     content:
@@ -73,7 +73,7 @@ exports.allBlogs = [
   },
   {
     id: 10,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Health2.jpg",
     title: "Healthy Eating Habits for Busy Professionals",
     category: "Health",
     content:
@@ -81,7 +81,7 @@ exports.allBlogs = [
   },
   {
     id: 11,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/DIY2.jpg",
     title: "Quick and Easy DIY Gift Ideas",
     category: "DIY",
     content:
@@ -89,7 +89,7 @@ exports.allBlogs = [
   },
   {
     id: 12,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Fashion3.jpg",
     title: "Fashion Tips: Dressing for Your Body Shape",
     category: "Fashion",
     content:
@@ -97,7 +97,7 @@ exports.allBlogs = [
   },
   {
     id: 13,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Food1.jpg",
     title: "Traditional Cuisine from Around the World",
     category: "Food",
     content:
@@ -105,7 +105,7 @@ exports.allBlogs = [
   },
   {
     id: 14,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Lifestyle2.jpg",
     title: "Achieving Work-Life Balance",
     category: "Lifestyle",
     content:
@@ -113,7 +113,7 @@ exports.allBlogs = [
   },
   {
     id: 15,
-    img: "/images/blogs/Tech2.jpg",
+    img: "/images/blogs/Tech3.jpg",
     title: "Future of Sustainable Technology",
     category: "Technology",
     content:
@@ -121,7 +121,7 @@ exports.allBlogs = [
   },
   {
     id: 16,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Health3.jpg",
     title: "Mindfulness and Meditation: Finding Inner Peace",
     category: "Health",
     content:
@@ -129,7 +129,7 @@ exports.allBlogs = [
   },
   {
     id: 17,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Travel1.jpg",
     title: "Offbeat Destinations for Adventure Travelers",
     category: "Travel",
     content:
@@ -137,7 +137,7 @@ exports.allBlogs = [
   },
   {
     id: 18,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/DIY3.jpg",
     title: "DIY Home Spa: Pamper Yourself at Home",
     category: "DIY",
     content:
@@ -145,7 +145,7 @@ exports.allBlogs = [
   },
   {
     id: 19,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Fashion1.jpg",
     title: "Seasonal Fashion Essentials: Spring/Summer Edition",
     category: "Fashion",
     content:
@@ -153,7 +153,7 @@ exports.allBlogs = [
   },
   {
     id: 20,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Food2.jpg",
     title: "Global Flavors: Fusion Recipes from Around the World",
     category: "Food",
     content:
@@ -161,7 +161,7 @@ exports.allBlogs = [
   },
   {
     id: 21,
-    img: "https://images.pexels.com/photos/4400679/pexels-photo-4400679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/images/blogs/Lifestyle3.jpg",
     title: "Minimalist Living: Simplify Your Life",
     category: "Lifestyle",
     content:
